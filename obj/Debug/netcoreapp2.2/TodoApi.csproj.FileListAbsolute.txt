@@ -1,0 +1,14 @@
+/home/developer/Desktop/LAB/NET/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.deps.json
+/home/developer/Desktop/LAB/NET/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.runtimeconfig.json
+/home/developer/Desktop/LAB/NET/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.runtimeconfig.dev.json
+/home/developer/Desktop/LAB/NET/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.dll
+/home/developer/Desktop/LAB/NET/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.pdb
+/home/developer/Desktop/LAB/NET/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.csprojAssemblyReference.cache
+/home/developer/Desktop/LAB/NET/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.csproj.CoreCompileInputs.cache
+/home/developer/Desktop/LAB/NET/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorAssemblyInfo.cache
+/home/developer/Desktop/LAB/NET/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorAssemblyInfo.cs
+/home/developer/Desktop/LAB/NET/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.AssemblyInfoInputs.cache
+/home/developer/Desktop/LAB/NET/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.AssemblyInfo.cs
+/home/developer/Desktop/LAB/NET/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorTargetAssemblyInfo.cache
+/home/developer/Desktop/LAB/NET/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.dll
+/home/developer/Desktop/LAB/NET/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.pdb
