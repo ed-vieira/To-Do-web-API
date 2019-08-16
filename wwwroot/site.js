@@ -44,14 +44,14 @@ function getData() {
           .append($("<td></td>").text(item.name))
           .append(
             $("<td></td>").append(
-              $("<button>Edit</button>").on("click", function() {
+              $("<button class='btn btn-outline-primary'>Edit</button>").on("click", function() {
                 editItem(item.id);
               })
             )
           )
           .append(
             $("<td></td>").append(
-              $("<button>Delete</button>").on("click", function() {
+              $("<button class='btn btn-outline-danger'>Delete</button>").on("click", function() {
                 deleteItem(item.id);
               })
             )
